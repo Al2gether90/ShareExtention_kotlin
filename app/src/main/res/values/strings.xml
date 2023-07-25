@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Min App</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_create">Create</string>
+    <string name="str_property_info">Property Info</string>
+    <string name="str_tell_us_about_the_property_you_re_inspecting">Tell us about the property you’re inspecting</string>
+    <string name="str_name">Name</string>
+    <string name="str_address">Address</string>
+    <string name="str_apt_unit_building">Apt, Unit, Building #</string>
+    <string name="str_type_of_inspection">Type of Inspection</string>
+    <string name="str_type_of_building">Type of Building</string>
+    <string name="str_choose_assignment">Choose Assignment</string>
+    <string name="str_search">Search</string>
+    <string name="str_next">Next</string>
+    <string name="str_upload">Upload</string>
+    <string name="str_select">Select</string>
+    <string name="str_ok">OK</string>
+    <string name="str_your_photos_have_been_successfully_uploaded_please_open_the_app_to_view_them">Your photos have been successfully uploaded! Please open the app to view them.</string>
+    <string name="str_pictures_uploaded">Pictures Uploaded!</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="network_failure">Network Failure</string>
+    <string name="conversion_error">Something went wrong</string>
+    <string name="str_select_all">Select All</string>
+</resources>
